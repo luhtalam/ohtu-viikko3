@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.9">
+<file name="/Users/luhtalam/Koulu/OhTu/Viikko3/src/main/java/Main.java">
+<error line="7" column="43" severity="error" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="/Users/luhtalam/Koulu/OhTu/Viikko3/src/main/java/ohtu/Multiplier.java">
+</file>
+</checkstyle>
